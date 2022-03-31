@@ -1,0 +1,12 @@
+﻿  console.cpp
+  exit_.cpp
+  fruit.cpp
+  My_game.cpp
+D:\2 сем\c++\архив\snake-master\My_game.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  point.cpp
+  snake.cpp
+D:\2 сем\c++\архив\snake-master\snake.cpp(52,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Создание кода...
+D:\2 сем\c++\архив\snake-master\console.cpp(66): warning C4715: console::get_el: значение возвращается не при всех путях выполнения
+  snake.vcxproj -> D:\2 сем\c++\архив\snake-master\x64\Debug\snake.exe
